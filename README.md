@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**mdmunna84880/mdmunna84880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mdmunna84880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
