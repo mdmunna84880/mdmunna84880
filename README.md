@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Munna</h1>
-<h3 align="center">Frontend Developer | React.js Specialist | Building Scalable, High-Performance Web Apps</h3>
+<h3 align="center">Frontend Developer | React.js Developer | Building Scalable, High-Performance Web Apps</h3>
 
 <p align="center">
   <a href="https://mdmunna.xyz/">Portfolio</a> •
