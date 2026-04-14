@@ -105,11 +105,11 @@ Frontend Developer with a strong focus on **performance optimization, scalable a
 
 ## 📊 GitHub Stats
 
-![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmunna84880&show_icons=true&theme=radical&v=3)
+![Munna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mdmunna84880&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mdmunna84880&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmunna84880&layout=compact&theme=radical&v=3)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdmunna84880&layout=compact&theme=radical)
 
 ---
 
