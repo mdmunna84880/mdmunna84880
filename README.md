@@ -1,141 +1,147 @@
-<h1 align="center">Hi 👋, I'm Md Munna</h1>
-<h3 align="center">Frontend Developer | React.js Developer | Building Scalable, High-Performance Web Apps</h3>
+# Md Munna
 
-<p align="center">
-  <a href="https://mdmunna.xyz/">Portfolio</a> •
-  <a href="https://github.com/mdmunna84880">GitHub</a> •
-  <a href="https://linkedin.com/in/mdmunna84880">LinkedIn</a> •
-  <a href="mailto:mdmunna19434@gmail.com">Email</a>
-</p>
+Full Stack Developer (MERN) • JavaScript • React • Node.js
 
 ---
 
-## 🚀 About Me
+## About
 
-Frontend Developer with a strong focus on **performance optimization, scalable architecture, and real-world problem solving**.
+Full-stack developer working with the MERN stack, focused on building structured, maintainable web applications.
 
-- ⚡ Built **3+ full-stack applications** serving real users
-- 📈 Improved application performance by **up to 40%**
-- 🔧 Developed **15+ reusable UI components** & integrated **10+ APIs**
-- 🧠 Strong in **React ecosystem + system optimization mindset**
-- 💡 Passionate about **AI-powered applications & modern web architecture**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- React.js (Hooks, Performance Optimization)
-- Redux Toolkit
-- Tailwind CSS
-- Vite
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST API Design
-- JWT Authentication
-
-### 🗄️ Database
-- MongoDB (Mongoose)
-
-### 🔧 Tools & DevOps
-- Git & GitHub
-- Postman / Hoppscotch
-- Vercel / Render (Deployment)
-- Cloudinary
-
-### 🧠 Other Expertise
-- API Integration
-- Performance Optimization
-- Responsive UI/UX
-- Debugging & Code Optimization
-- SEO Basics
+* Experience building end-to-end applications (frontend, backend, database)
+* Strong focus on component-based architecture and state management
+* Experience integrating REST APIs and handling asynchronous data flows
+* Interest in AI-integrated applications and workflow automation
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 💡 FinSmart — AI Finance Dashboard
-🔗 https://fin-smart-tau.vercel.app/
+**Frontend**
 
-- Built a full-stack personal finance platform with **AI-powered insights**
-- Optimized MongoDB queries using **compound indexing & aggregation**
-- 🚀 Reduced query time by **42%** and API latency by **45%**
-- ⚡ Improved frontend performance (memoization, caching) reducing load time by **70%**
+* React.js
+* Redux Toolkit
+* Tailwind CSS
+* Responsive UI Design
 
-**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB, Gemini AI
+**Backend**
 
----
+* Node.js
+* Express.js
+* REST API Development
 
-### 🤖 Document Orchestrator AI
-🔗 https://ai-orchastrator.vercel.app/
+**Database**
 
-- AI-powered document processing system with **workflow automation**
-- Implemented **human-in-the-loop AI validation system**
-- ⚡ Reduced AI response time by **55%** and upload latency by **40%**
-- 🔄 Integrated automation pipelines using **n8n workflows**
+* MongoDB (Mongoose)
 
-**Tech:** React, Node.js, Express, Gemini AI, n8n, Tailwind CSS
+**Authentication**
 
----
+* JWT Authentication
+* Google OAuth
 
-### 🏥 MediBook — Doctor Appointment Platform
-🔗 https://medibook-sigma.vercel.app/
+**Tools**
 
-- Full-stack healthcare booking system with **secure authentication**
-- ⚡ Reduced DB load by **60%** using indexing & caching
-- 📉 Reduced API calls by **70%** with frontend optimization strategies
-- 🔐 Implemented JWT + OAuth authentication
-
-**Tech:** React, Redux, Node.js, MongoDB, Cloudinary, OAuth
+* Git & GitHub
+* Postman / Hoppscotch
+* Vercel / Render / Netlify
 
 ---
 
-### 🛒 ShopSphere — E-Commerce Platform
-🔗 https://github.com/mdmunna84880/shopsphere
+## Projects
 
-- Built a scalable e-commerce frontend with **Redux state management**
-- Implemented **cart, wishlist, search, pagination, and filtering**
-- 🎯 Focused on **UX interactions & performance**
+### FinSmart — AI Finance Dashboard
 
-**Tech:** React, Redux Toolkit, Tailwind CSS, Framer Motion
+https://fin-smart-tau.vercel.app/
 
----
+* Full-stack application for managing transactions, budgets, and analytics
+* AI-powered financial insights using Gemini based on user data
+* REST API-driven architecture with structured data handling
+* Interactive dashboard with charts and session-based chat interface
 
-## 📊 GitHub Stats
-
-![Munna's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mdmunna84880&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mdmunna84880&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdmunna84880&layout=compact&theme=radical)
+**Stack:** React, Redux Toolkit, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
-## 🏆 Achievements
+### Document Orchestrator AI
 
-- 🧠 Solved **100+ JavaScript problems** (LeetCode & others)
-- 🚀 Built and deployed **multiple production-ready applications**
-- ⚡ Improved performance across projects by **up to 40%**
-- 📦 Designed scalable frontend architectures with reusable components
+https://ai-orchastrator.vercel.app/
 
----
+* Document processing system with AI-based data extraction
+* Human-in-the-loop verification before automation
+* Workflow automation via n8n integration
+* Handles PDF and text file uploads with structured output
 
-## 🎯 What I'm Looking For
-
-- Frontend Developer / Full Stack Developer / Software Engineer roles
-- Product-based companies & high-growth startups
-- Opportunities to work on **scalable, real-world applications**
+**Stack:** React, Node.js, Express.js, Gemini AI, n8n, Tailwind CSS
 
 ---
 
-## 📬 Let's Connect
+### MediBook — Doctor Appointment Platform
 
-- 📧 Email: mdmunna19434@gmail.com
-- 🌐 Portfolio: https://mdmunna.xyz/
-- 💼 LinkedIn: https://linkedin.com/in/mdmunna84880
+https://medibook-sigma.vercel.app/
+
+* Appointment booking system with authentication and profile management
+* JWT and Google OAuth authentication flows
+* File upload support for reports (image/PDF)
+* Structured backend with REST APIs
+
+**Stack:** React, Redux Toolkit, Node.js, Express.js, MongoDB
 
 ---
 
-⭐ *Open to opportunities — let’s build something impactful.*
+### ShopSphere — E-Commerce Frontend
+
+https://github.com/mdmunna84880/shopsphere
+
+* E-commerce interface with cart and wishlist functionality
+* Product filtering, pagination, and search
+* State management using Redux Toolkit
+
+**Stack:** React, Redux Toolkit, Tailwind CSS
+
+---
+
+## Training Experience
+
+**Web Development Trainee (MERN Stack)**
+AlmaBetter • Remote • June 2025 – Present
+
+* Built full-stack applications with React and Node.js
+* Developed reusable UI components using Tailwind CSS
+* Integrated REST APIs across multiple application workflows
+* Managed application state using Redux Toolkit
+
+---
+
+## Education
+
+**M.Sc. Computer Science**
+Woolf University (2025 – Present)
+
+**B.Tech Mechanical Engineering**
+Gandhi Engineering College (2021 – 2025)
+
+---
+
+## Achievements
+
+* Solved 100+ JavaScript problems focused on logic and debugging
+* Built and deployed multiple full-stack applications
+
+---
+
+## Focus Areas
+
+* Scalable frontend architecture
+* API-driven application design
+* AI-assisted workflows
+* Clean and maintainable codebases
+
+---
+
+## Contact
+
+* Email: [mdmunna19434@gmail.com](mailto:mdmunna19434@gmail.com)
+* Portfolio: https://mdmunna.xyz/
+* LinkedIn: https://linkedin.com/in/mdmunna84880
+
+---
