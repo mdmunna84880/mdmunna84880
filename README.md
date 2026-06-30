@@ -115,10 +115,10 @@ AlmaBetter • Remote • June 2025 – Present
 ## Education
 
 **M.Sc. Computer Science**
-Woolf University (2025 – Present)
+Woolf University (2026 – Present)
 
 **B.Tech Mechanical Engineering**
-Gandhi Engineering College (2021 – 2025)
+Gandhi Engineering College (2021 – 2026)
 
 ---
 
